@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>selectimage</name>
+  <displayName><![CDATA[Select product image]]></displayName>
+  <version><![CDATA[1.0.0]]></version>
+  <description><![CDATA[Provides a hook to embed a selected product image inside the product page, configurable from the back office.]]></description>
+  <author><![CDATA[Tu Nombre / Empresa]]></author>
+  <tab><![CDATA[front_office_features]]></tab>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+</module>
